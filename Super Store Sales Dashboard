@@ -2,7 +2,7 @@
 
 ## Dataset Used
 
-- <a href="https://github.com/AbdullahHasan707/Power-Bi-Projects/blob/main/SuperStore%20Sales%20DataSet.xlsx"> Dataset view</a>
+- [Dataset view](https://github.com/AbdullahHasan707/Power-Bi-Projects/blob/main/SuperStore%20Sales%20DataSet.xlsx)
 
 ### Project Description
 
@@ -16,7 +16,6 @@ This dashboard allows stakeholders to:
 * Understand customer purchase behavior by segment, region, state, and category.
 * Evaluate preferred payment modes (Cards, Online, COD) and shipping modes.
 * Identify top-performing categories and sub-categories to optimize strategy.
-
 
 ### Features
 
